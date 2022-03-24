@@ -3,6 +3,14 @@
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif">
 </div>
 
+<div align="center">
+  <p>- I'm frontend web developer</p>
+  <p>- Curently learning React</p>
+  <p>- My personal web page </p>
+</div>
+
+
+
 <h2 align="center">Languages and tools I use:</h2>
 
 <div align="center" style="display: grid; grid-template-columns: 50px 50px 50px; grid-template-rows: 50px 50px 50px"
@@ -16,6 +24,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA" width="50" height="50"/>
 </div>
+
+<h2 align="center">
+  Projects that I'm proud of:
+  </h2>
+  
+  - [TODO APP](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
+
+- [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since.
+
+- [ADVICE GENERATOR](https://github.com/Blagoja95/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await.
 
 <h2 align="center">
   Stats:
