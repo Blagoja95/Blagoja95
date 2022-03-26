@@ -6,7 +6,7 @@
 <div align="center">
   <p>- I'm frontend web developer</p>
   <p>- Curently learning React</p>
-  - [My personal web page](https://blagoja95.github.io/personal-page/)
+  [My personal web page](https://blagoja95.github.io/personal-page/)
 </div>
 
 
