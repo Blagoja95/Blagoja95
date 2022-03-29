@@ -28,13 +28,13 @@
   Projects that I'm proud of:
   </h2>
   
-  - [TODO APP](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
+  - [TO DO APP](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
 
 - [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since.
 
 - [ADVICE GENERATOR](https://github.com/Blagoja95/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await.
 
-- [My personal web page](https://blagoja95.github.io/borisblagojevic.github.io/)
+- [My personal web page](https://blagoja95.github.io/borisblagojevic.github.io/), made in HTML, SASS and a bit of JavaScript to display the mobile menu, select languages and to store user preferences locally.
 <h2 align="center">
   Stats:
   </h2>
