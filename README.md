@@ -27,6 +27,7 @@
   Projects that I'm proud of:
   </h2>
   
+  
   - [TO DO APP](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
 
 - [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since.
