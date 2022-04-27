@@ -27,7 +27,7 @@
   Projects that I'm proud of:
   </h2>
   
-  
+  - [RECIPE APP](https://github.com/Blagoja95/recipe-app-demo)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with MVC architecture. 
   - [TO DO APP](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
 
 - [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since.
