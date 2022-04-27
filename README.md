@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>- I'm frontend web developer</p>
-  <p>- Curently learning React</p>
+  <p>- Curently learning Redux</p>
 </div>
 
 
