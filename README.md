@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>- I'm web developer</p>
-  <p>- Curently learning [MERN](https://www.youtube.com/watch?v=Sxxw3qtb3_g&ab_channel=Fireship) </p>
+  <p>- Curently learning ![MERN](https://www.youtube.com/watch?v=Sxxw3qtb3_g&ab_channel=Fireship) </p>
 </div>
 
 
