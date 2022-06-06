@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <p>- I'm frontend web developer</p>
-  <p>- Curently learning Redux</p>
+  <p>- I'm web developer</p>
+  <p>- Curently learning MERN</p>
 </div>
 
 
