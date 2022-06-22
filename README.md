@@ -22,7 +22,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" width="50" height="50"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL" width="50" height="50"/>
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png" title="mssql" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" width="50" height="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
