@@ -33,7 +33,7 @@
   Projects that I'm proud of:
   </h2>
   
-   - [Image gallery w/ PIXABAY API](https://blagoja95.github.io/image-galery-pixabayAPI-tailwind-react) is front end application that allows its user to search the enormous amount of images. The user can search any image by typing in a desired keyword like 'cats' or 'cars' and the get a list of images present that to the user as a card with image and data about that image. Filter those search results by selecting the type of image like photos, vectors and illustrations.
+   - [Image gallery w/ PIXABAY API](https://blagoja95.github.io/image-gallery-pixabayAPI-tailwind-react/) is front end application that allows its user to search the enormous amount of images. The user can search any image by typing in a desired keyword like 'cats' or 'cars' and the get a list of images present that to the user as a card with image and data about that image. Filter those search results by selecting the type of image like photos, vectors and illustrations.
    
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
