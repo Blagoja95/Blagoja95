@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <p>- I'm Software developer</p>
-  <p>- Curently learning how to make MERN apps</p>
+  <p>I'm Software developer</p>
 </div>
 
 
@@ -19,10 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" width="50" height="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="50" height="50"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" width="50" height="50"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="mssql" width="50" height="50" style="background-color: white"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
@@ -51,9 +48,6 @@
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Blagoja95&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Score](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=radical)](https://git.io/streak-stats)
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=radical -->
-</div>
 
 
 <!--
