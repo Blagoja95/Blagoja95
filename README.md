@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center">Languages and tools I use:</h2>
+<h2 align="center">Some of languages and tools I use:</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" hight="50>
