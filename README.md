@@ -28,7 +28,8 @@
 <h2 align="center">
   Projects that I'm proud of:
   </h2>
-                  
+  <div> 
+				  
   - [Jop posting app](https://github.com/Blagoja95/job-posting-web-app) Made with ReactJS, Java EE, Tomcat to host and run Java and MySQL to store data.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
@@ -40,3 +41,4 @@
 - [Advice generator](https://blagoja95.github.io/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await.
 
 - [My personal page](https://blagoja95.github.io/borisblagojevic.github.io/), made in HTML, SASS and a bit of JavaScript to display the mobile menu, select languages and to store user preferences locally.
+                  </div>
