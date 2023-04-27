@@ -28,6 +28,7 @@
 <h2 align="center">
   Projects that I'm proud of:
   </h2>
+                  
   - [Jop posting app](https://github.com/Blagoja95/job-posting-web-app) Made with ReactJS, Java EE, Tomcat to host and run Java and MySQL to store data.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
