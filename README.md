@@ -30,7 +30,7 @@
   </h2>
   <div> 
 				  
-  - [Jop posting app](https://github.com/Blagoja95/job-posting-web-app) Made with ReactJS, Java EE, Tomcat to host and run Java and MySQL to store data.
+  - [Jop posting app](https://github.com/Blagoja95/job-posting-web-app)Made it with TailwindCSS, ReactJS, Java. Running it on Tomcat web server and MySQL RDBMS to store data.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
