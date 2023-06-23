@@ -1,10 +1,12 @@
 <h1 align="center">Hi there👋</h1>
 <div align="center">
 </div>
+  <br>
 
 <div align="center">
   <p>Hi, I'm a passionate software engineer driven by a thirst for knowledge and a desire to acquire new skills and experiences. With a deep love for technology, I constantly seek out opportunities to expand my expertise and stay updated on the latest industry trends. I thrive on challenging projects that allow me to push my boundaries and learn from collaborating with talented professionals.</p>
 </div>
+  <br>
 
 <h2 align="center">Some of the languages and tools I use:</h2>
 
@@ -37,6 +39,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
 </div>
+  <br>
+  <br>
+
 
 
 <h2 align="center">
@@ -56,6 +61,8 @@
 
 - [My personal page](https://blagoja95.github.io/borisblagojevic.github.io/), made it with HTML, SASS. Used JS for display the mobile menu, changing languages and storing user preferences locally.
                   </div>
+  <br>
+		  
 
 <div align="center">
 <h2>* Stats:</h2>
