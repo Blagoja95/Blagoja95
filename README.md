@@ -66,4 +66,4 @@
  ![](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars&rank_icon=github)
  
 
-*Some of my and also organisation repos are private so no data is shown in stats
+*Some of mine and also organisation repos are private so their data are not accounted in a stats
