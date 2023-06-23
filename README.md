@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>I'm Software Engineer</p>
+  <p>Hi, I'm a passionate software engineer driven by a thirst for knowledge and a desire to acquire new skills and experiences. With a deep love for technology, I constantly seek out opportunities to expand my expertise and stay updated on the latest industry trends. I thrive on challenging projects that allow me to push my boundaries and learn from collaborating with talented professionals.</p>
 </div>
 
 <h2 align="center">Some of the languages and tools I use:</h2>
