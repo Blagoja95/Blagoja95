@@ -56,3 +56,5 @@
 
 - [My personal page](https://blagoja95.github.io/borisblagojevic.github.io/), made it with HTML, SASS. Used JS for display the mobile menu, changing languages and storing user preferences locally.
                   </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss)
