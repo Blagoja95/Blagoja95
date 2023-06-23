@@ -36,8 +36,8 @@
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
-  
 </div>
+
 
 <h2 align="center">
   Projects that I'm proud of:
@@ -57,4 +57,13 @@
 - [My personal page](https://blagoja95.github.io/borisblagojevic.github.io/), made it with HTML, SASS. Used JS for display the mobile menu, changing languages and storing user preferences locally.
                   </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss)
+<div align="center">
+<h2>* Stats:</h2>
+
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss&langs_count=4&layout=donut)
+<br>
+
+ ![](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars&rank_icon=github)
+ 
+
+*Private and organisation repos are private so no data is shown in stats
