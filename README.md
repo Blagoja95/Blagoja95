@@ -1,12 +1,12 @@
-<h1 align="center">Hi there <span class="wave">👋</span></h1>
+<h1 align="center">Hi there👋</h1>
 <div align="center">
 </div>
 
 <div align="center">
-  <p>I'm Software developer</p>
+  <p>I'm Software Engineer</p>
 </div>
 
-<h2 align="center">Some of languages and tools I use:</h2>
+<h2 align="center">Some of the languages and tools I use:</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" hight="50"/>
@@ -50,7 +50,7 @@
   
   - [TO DO app](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
 
-- [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since.
+- [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since. Powerd by Arduino board.
 
 - [Advice generator](https://blagoja95.github.io/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await and how to handle promises.
 
