@@ -56,8 +56,8 @@
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
-  - [TO DO app](https://github.com/Blagoja95/todo-app) that store locally user's todos and layout theme preference. Made with the MVC design pattern.
-
+  - [TO DO app](https://github.com/Blagoja95/todo-app) that store locally user's tasks and theme preference. For this project I created a detailed README document that outlines the app's underpinning work and my thinking process, with a focus on implementation of MVC design pattern and creation of UI components.
+    
 - [Automatic garden watering system](https://github.com/Blagoja95/automatic-garden-watering-sys-aurdion) that helps me water my garden every day trough summer. Made first version in 2020 and used it ever since. Powerd by Arduino board.
 
 - [Advice generator](https://blagoja95.github.io/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await and how to handle promises.
