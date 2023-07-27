@@ -4,7 +4,7 @@
   <br>
 
 <div align="center">
-  <p>Hi, I'm a passionate <a target="_blank" href="https://www.instagram.com/p/CtQ7Dv4J5fo/?hl=en">s</a>oftware engineer driven by a thirst for knowledge and a desire to acquire new skills and experiences. With a deep love for technology, I constantly seek out opportunities to expand my expertise and stay updated on the latest industry trends. I thrive on challenging projects that allow me to push my boundaries and learn from collaborating with talented professionals.</p>
+  <p>Hi, I'm a passionate software engineer driven by a thirst for knowledge and a desire to acquire new skills and experiences. With a deep love for technology, I constantly seek out opportunities to expand my expertise and stay updated on the latest industry trends. I thrive on challenging projects that allow me to push my boundaries and learn from collaborating with talented professionals.</p>
 </div>
   <br>
 
