@@ -52,7 +52,7 @@
   </h2>
   <div> 
 				  
-  - [Jop posting app](https://github.com/Blagoja95/job-posting-web-app) Made it with TailwindCSS, ReactJS, Java. Running it on Tomcat web server and MySQL RDBMS to store data.
+  - [Jop board app](https://github.com/Blagoja95/job-posting-web-app) Employment web app made with TailwindCSS, ReactJS and Java. Business logic and data models are handled on Tomcat web server and MySQL RDBMS to store data.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
@@ -76,4 +76,4 @@
  ![](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github)
  
 
-*Some of mine and also organisation repos are private so their data are not accounted in a stats
+*Some of mine and organisations repos are private so their data are not accounted in a stats
