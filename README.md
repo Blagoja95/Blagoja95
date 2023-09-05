@@ -8,7 +8,7 @@
 </div>
   <br>
 
-<h2 align="center">Some of the languages and tools I use:</h2>
+<h2 align="center">Some of the tools I use:</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" hight="50"/>
@@ -16,35 +16,35 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" width="50" height="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>
-  <br>
-  <br>
-	
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="TOMCAT" width="50" height="50"/>
+	<br>
+	<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="DOCKER" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" title="KUBERNETES" width="50" height="50"/>
-  <br>
-  <br>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="50" height="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JETBRAINS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MOCHA" width="50" height="50"/>
-  <br>
-  <br>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MOCHAJS" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/13523395?s=48&v=4" title="InstambulJS" width="50" height="50"/>
+	<br>
+	<br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JestJS" width="50" height="50"/>
+  <img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" title="TestNG" width="50" height="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
+	
+  <img src="https://2minutes2winit.com/wp-content/uploads/2018/07/many-more.png" title="ARDUINO" width="50" height="50"/>
 </div>
-  <br>
-  <br>
-
+  
 
 
 <h2 align="center">
