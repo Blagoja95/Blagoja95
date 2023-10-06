@@ -68,12 +68,9 @@
 		  
 
 <div align="center">
-<h2>* Stats:</h2>
+<h2>Stats:</h2>
 
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss&langs_count=4&layout=donut)
 <br>
 
  ![](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github)
- 
-
-*Some of mine and organisations repos are private so their data are not accounted in a stats
