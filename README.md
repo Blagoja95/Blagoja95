@@ -52,7 +52,7 @@
   </h2>
   <div> 
 				  
-  - [Job board app](https://github.com/Blagoja95/job-posting-web-app) Employment web app made with TailwindCSS, ReactJS and Java. Business logic and data models are handled on Tomcat web server and MySQL RDBMS to store data.
+  - [Job board app](https://github.com/Blagoja95/job-posting-web-app) Job board web app made with ReactJS, TailwindCSS and JAVA. Running back-end on Tomcat and storing data using MySQL RDBMS.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
