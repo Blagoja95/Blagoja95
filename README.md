@@ -24,25 +24,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="TOMCAT" width="50" height="50"/>
 	<br>
 	<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="DOCKER" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" title="KUBERNETES" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="50" height="50"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JETBRAINS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MOCHAJS" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/13523395?s=48&v=4" title="InstambulJS" width="50" height="50"/>
-	<br>
-	<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JestJS" width="50" height="50"/>
   <img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" title="TestNG" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA" width="50" height="50"/>
+	<br>
+	<br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" width="50" height="50"/>
-	
-  <img src="https://2minutes2winit.com/wp-content/uploads/2018/07/many-more.png" title="ARDUINO" width="50" height="50"/>
+  <img src="https://2minutes2winit.com/wp-content/uploads/2018/07/many-more.png" title="more..." width="50" height="50"/>
 </div>
   
 
@@ -52,7 +49,7 @@
   </h2>
   <div> 
 				  
-  - [Job board app](https://github.com/Blagoja95/job-posting-web-app) Job board web app made with ReactJS, TailwindCSS and JAVA. Running back-end on Tomcat and storing data using MySQL RDBMS.
+  - [Job board app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is made with ReactJS, TailwindCSS and JAVA. Running back-end on Tomcat and storing data using MySQL RDBMS. All these parts are containerized using Docker.
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
