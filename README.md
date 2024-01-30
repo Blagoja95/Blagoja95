@@ -49,7 +49,9 @@
   </h2>
   <div> 
 				  
-  - [Job board app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is made with ReactJS, TailwindCSS and JAVA. Running back-end on Tomcat and storing data using MySQL RDBMS. All these parts are containerized using Docker.
+  - [Job posting web app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is Job board web app made with ReactJS, TailwindCSS and JAVA EE. Running back-end on Tomcat and storing data using MySQL RDBMS and administering it using phpMyAdmin. All parts containerized using Docker together with docker compose tool to handle all images, containers and other configurations.
+  
+  - [DashNet web app](https://github.com/Blagoja95/DashNET) Ticketing system made with React, MUI, Redux Tool, SPRING, MYSQL, Swagger & Docker w/ Compose tool. Designed and developed together with [ogi1998](https://github.com/ogi1998)
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
