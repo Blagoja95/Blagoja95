@@ -49,7 +49,7 @@
   </h2>
   <div> 
 				  
-  - [Job posting web app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is Job board web app made with ReactJS, TailwindCSS and JAVA EE. Running back-end on Tomcat and storing data using MySQL RDBMS and administering it using phpMyAdmin. All parts containerized using Docker together with docker compose tool to handle all images, containers and other configurations.
+  - [Job board web app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is Job board web app made with ReactJS, TailwindCSS and JAVA EE. Running back-end on Tomcat and storing data using MySQL RDBMS and administering it using phpMyAdmin. All parts containerized using Docker together with docker compose tool to handle all images, containers and other configurations.
   
   - [DashNet web app](https://github.com/Blagoja95/DashNET) Ticketing system made with React, MUI, Redux Tool, SPRING, MYSQL, Swagger & Docker w/ Compose tool. Designed and developed together with [ogi1998](https://github.com/ogi1998)
                   
