@@ -51,7 +51,7 @@
 				  
   - [Job board web app](https://github.com/Blagoja95/job-posting-web-app) Crown jewel of my repos, this app is Job board web app made with ReactJS, TailwindCSS and JAVA EE. Running back-end on Tomcat and storing data using MySQL RDBMS and administering it using phpMyAdmin. All parts containerized using Docker together with docker compose tool to handle all images, containers and other configurations.
   
-  - [DashNet web app](https://github.com/Blagoja95/DashNET) Ticketing system made with React, MUI, Redux Tool, SPRING, MYSQL, Swagger & Docker w/ Compose tool. Designed and developed together with [ogi1998](https://github.com/ogi1998)
+  - [DashNet web app](https://github.com/Blagoja95/DashNET) is a product management web app enabling teams to plan, build, and launch products made with React, MUI, Redux Tool, SPRING, MYSQL, Swagger / Postman for API documentation and testing and Docker w/ Compose tool. Designed and developed together with [ogi1998](https://github.com/ogi1998)
                   
   - [Recipe app](https://recipe-app-demo-bb.netlify.app)  allows its user to search over a million of different recipes. Add new recipes, filter recipes by keyword like ingredient or find specific recipe with a search bar. A user also has the option of creating their own recipe. This application is made with the MVC design pattern.
   
@@ -61,7 +61,7 @@
 
 - [Advice generator](https://blagoja95.github.io/advice-generator-app-challenge-hub) that I made together with my buddy [Denzel95](https://github.com/Denzel95), where we practice teamwork and version control. Also, this was a great project to practice async/await and how to handle promises.
 
-- [My personal page](https://blagoja95.github.io/borisblagojevic.github.io/), made it with HTML, SASS. Used JS for display the mobile menu, changing languages and storing user preferences locally.
+- [borisblagojevic.me](https://blagoja95.github.io/borisblagojevic.github.io/) made it with SASS and vanilla JS helps me centralized all information about me in one beautiful, tech confident and coherent form.
                   </div>
   <br>
 		  
