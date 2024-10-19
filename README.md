@@ -72,7 +72,7 @@
 <div align="center">
 <h2>Stats:</h2>
 
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss&langs_count=4&layout=donut)
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss&langs_count=5&layout=donut)
 <br>
 
  ![](https://github-readme-stats.vercel.app/api?username=Blagoja95&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github)
