@@ -28,11 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="DOCKER" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nginx/nginx-original.svg" title="NGINX" width="50" height="50"/>
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JETBRAINS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MOCHAJS" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/13523395?s=48&v=4" title="InstambulJS" width="50" height="50"/>
@@ -66,10 +64,3 @@
 
 - [borisblagojevic.me](https://blagoja95.github.io/borisblagojevic.github.io/) made it with SASS and vanilla JS helps me centralized all information about me in one beautiful, tech confident and coherent form.
                   </div>
-  <br>
-		  
-
-<div align="center">
-	
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagoja95&theme=tokyonight&hide=html,css,scss&langs_count=5&layout=donut)
-
